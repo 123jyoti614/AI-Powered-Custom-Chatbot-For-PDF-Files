@@ -1,4 +1,5 @@
-# 📄 Chat with PDF – RAG Chatbot using LangChain & Streamlit
+AI-Powered-Custom-Chatbot-For-PDF-Files
+
 
 ## 🚀 Overview
 This project implements an **AI-powered PDF chatbot** using a Retrieval Augmented Generation (RAG) pipeline.  
